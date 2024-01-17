@@ -1,2 +1,5 @@
-행렬 곱셈 최적화 dependency chain 해결까지
+행렬 곱셈 최적화
+- dependency chain 해결까지
+- 최적화 다해주는 icx대신 gcc로 대체
+- MakeFile 사용 시작
 
